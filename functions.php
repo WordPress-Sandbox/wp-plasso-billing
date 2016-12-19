@@ -5,6 +5,25 @@
 
 add_theme_support('title-tag');
 
+/* Get the Billing Class
+---------------------------------------------------------------------------------------------------- */
+
+require_once(get_template_directory() . '/assets/works/plasso-billing.php');
+
+/* Plasso Protected Page
+---------------------------------------------------------------------------------------------------- */
+
+function plasso_protect_pages() {
+	$options = get_theme_mod('plasso');
+	$protected = $options['space_page'];
+
+	// If we are on a protected page.
+  if(is_page($protected)) {
+    $plassoBilling = new PlassoBilling((isset($_GET['__logout']))?'logout':(isset($_GET['_plasso_token'])?$_GET['_plasso_token']:NULL));
+	}
+}
+add_action('template_redirect','plasso_protect_pages');
+
 /* Include Works: Customizer, etc.
 ---------------------------------------------------------------------------------------------------- */
 

@@ -7,7 +7,7 @@
 		"uuidString": "6587F6D5-FEE9-4DB5-90F6-D51DE80433D2"
 		}
 	],
-"creatorBuild": "25444",
+"creatorBuild": "25479",
 "files": {
 	"\/assets\/scripts\/site-min.js": {
 		"ft": 64,
@@ -132,6 +132,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/works\/customizer.php",
+		"oF": 0
+		},
+	"\/assets\/works\/plasso-billing.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/works\/plasso-billing.php",
 		"oF": 0
 		},
 	"\/assets\/works\/vendor\/kirki\/assets\/css\/customizer-dynamic-css-colors.php": {
@@ -2946,6 +2952,18 @@
 		"oAP": "\/part-intro.php",
 		"oF": 0
 		},
+	"\/part-pricing.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/part-pricing.php",
+		"oF": 0
+		},
+	"\/part-protected.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/part-protected.php",
+		"oF": 0
+		},
 	"\/part-welcome.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -2985,397 +3003,6 @@
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/style-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/wp-plasso-billing\/assets\/scripts\/site-min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/wp-plasso-billing\/assets\/scripts\/site-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/wp-plasso-billing\/assets\/scripts\/site.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/wp-plasso-billing\/assets\/scripts\/site-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/wp-plasso-billing\/assets\/styles\/sass\/main\/_message.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/wp-plasso-billing\/assets\/styles\/sass\/_message-min.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/wp-plasso-billing\/assets\/styles\/sass\/main\/_responsive.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/wp-plasso-billing\/assets\/styles\/sass\/_responsive-min.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/wp-plasso-billing\/assets\/styles\/sass\/main\/_styles.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/wp-plasso-billing\/assets\/styles\/sass\/_styles-min.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/wp-plasso-billing\/assets\/styles\/sass\/site.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/wp-plasso-billing\/assets\/styles\/site-min.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/wp-plasso-billing\/assets\/styles\/sass\/vendor\/_animate.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/wp-plasso-billing\/assets\/styles\/sass\/_animate-min.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/wp-plasso-billing\/assets\/styles\/sass\/vendor\/_mobilemenu.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/wp-plasso-billing\/assets\/styles\/sass\/_mobilemenu-min.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/wp-plasso-billing\/assets\/styles\/sass\/vendor\/_simplegrid.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/wp-plasso-billing\/assets\/styles\/sass\/_simplegrid-min.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/wp-plasso-billing\/assets\/styles\/site-min.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/wp-plasso-billing\/assets\/styles\/site-min-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/wp-plasso-billing\/assets\/works\/customizer.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-plasso-billing\/assets\/works\/customizer.php",
-		"oF": 0
-		},
-	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/customizer-dynamic-css-colors.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/customizer-dynamic-css-colors.php",
-		"oF": 0
-		},
-	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/customizer-dynamic-css-width.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/customizer-dynamic-css-width.php",
-		"oF": 0
-		},
-	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/customizer-dynamic-css.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/customizer-dynamic-css.php",
-		"oF": 0
-		},
-	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/customizer.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/customizer-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/customizer.css.map": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/customizer.css.map",
-		"oF": 0
-		},
-	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/hint.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/hint-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/kirki-styles.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/kirki-styles-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/select2.min.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/select2.min-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/transparency-grid.png": {
-		"ft": 32768,
-		"iS": 2646,
-		"oA": 0,
-		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/transparency-grid.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/1c.png": {
-		"ft": 32768,
-		"iS": 760,
-		"oA": 0,
-		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/1c.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/2cl.png": {
-		"ft": 32768,
-		"iS": 769,
-		"oA": 0,
-		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/2cl.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/2cr.png": {
-		"ft": 32768,
-		"iS": 771,
-		"oA": 0,
-		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/2cr.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/3cl.png": {
-		"ft": 32768,
-		"iS": 791,
-		"oA": 0,
-		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/3cl.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/3cm.png": {
-		"ft": 32768,
-		"iS": 786,
-		"oA": 0,
-		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/3cm.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/3cr.png": {
-		"ft": 32768,
-		"iS": 791,
-		"oA": 0,
-		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/3cr.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/jquery.fs.stepper-arrows.png": {
-		"ft": 32768,
-		"iS": 306,
-		"oA": 0,
-		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/jquery.fs.stepper-arrows.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/kirki-bottom.png": {
-		"ft": 32768,
-		"iS": 1549,
-		"oA": 0,
-		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/kirki-bottom.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/kirki-bottom.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/kirki-bottom.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/kirki-logo.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/kirki-logo.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/kirki-toolkit.png": {
-		"ft": 32768,
-		"iS": 9204,
-		"oA": 0,
-		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/kirki-toolkit.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/wp-plasso-billing\/functions.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-plasso-billing\/functions.php",
-		"oF": 0
-		},
-	"\/wp-plasso-billing\/index.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-plasso-billing\/index.php",
-		"oF": 0
-		},
-	"\/wp-plasso-billing\/part-404.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-plasso-billing\/part-404.php",
-		"oF": 0
-		},
-	"\/wp-plasso-billing\/part-about.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-plasso-billing\/part-about.php",
-		"oF": 0
-		},
-	"\/wp-plasso-billing\/part-contact.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-plasso-billing\/part-contact.php",
-		"oF": 0
-		},
-	"\/wp-plasso-billing\/part-cta.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-plasso-billing\/part-cta.php",
-		"oF": 0
-		},
-	"\/wp-plasso-billing\/part-details.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-plasso-billing\/part-details.php",
-		"oF": 0
-		},
-	"\/wp-plasso-billing\/part-faq.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-plasso-billing\/part-faq.php",
-		"oF": 0
-		},
-	"\/wp-plasso-billing\/part-footer.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-plasso-billing\/part-footer.php",
-		"oF": 0
-		},
-	"\/wp-plasso-billing\/part-intro.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-plasso-billing\/part-intro.php",
-		"oF": 0
-		},
-	"\/wp-plasso-billing\/part-welcome.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-plasso-billing\/part-welcome.php",
-		"oF": 0
-		},
-	"\/wp-plasso-billing\/README.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/wp-plasso-billing\/README.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/wp-plasso-billing\/screenshot.png": {
-		"ft": 32768,
-		"iS": 0,
-		"oA": 0,
-		"oAP": "\/wp-plasso-billing\/screenshot.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/wp-plasso-billing\/style.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/wp-plasso-billing\/style-min.css",
 		"oF": 0,
 		"oS": 0
 		}
@@ -3832,6 +3459,10 @@
 			"active": 0,
 			"optionString": "{'properties': 'always'}"
 			},
+		"capitalized-comments": {
+			"active": 0,
+			"optionString": "'always', {'ignoreInlineComments': false, 'ignoreConsecutiveComments': false}"
+			},
 		"class-methods-use-this": {
 			"active": 0,
 			"optionString": "{'exceptMethods': []}"
@@ -3995,6 +3626,10 @@
 		"max-statements": {
 			"active": 0,
 			"optionString": "{'max': 10}, {'ignoreTopLevelFunctions': true}"
+			},
+		"max-statements-per-line": {
+			"active": 0,
+			"optionString": "{'max': 1}"
 			},
 		"multiline-ternary": {
 			"active": 0,
@@ -4360,6 +3995,10 @@
 			"active": 0,
 			"optionString": "'except-parens'"
 			},
+		"no-return-await": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-script-url": {
 			"active": 0,
 			"optionString": ""
@@ -4591,6 +4230,10 @@
 		"radix": {
 			"active": 0,
 			"optionString": "'always'"
+			},
+		"require-await": {
+			"active": 0,
+			"optionString": ""
 			},
 		"require-jsdoc": {
 			"active": 0,
@@ -5424,6 +5067,10 @@
 			},
 		"space-colon": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"support-ie8": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"toplevel": {

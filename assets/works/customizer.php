@@ -41,14 +41,14 @@ function plasso_customizer() {
 			'priority' => 10,
 		));
 
-		// Button Text: For the type of product/service being offered.
+		// Protected Page: The protected page.
 
 		Kirki::add_field('plasso_theme', array(
-			'settings' => 'plasso[space_type_text]',
-			'label' => __('Button Text', 'plasso_textdomain'),
-			'description' => __('The label you would like to use for your product/service buttons (e.g. “See Plans”).'),
+			'settings' => 'plasso[space_page]',
+			'label' => __('Forward URL', 'plasso_textdomain'),
+			'description' => __('Set a Forward URL users will be redirected to after they finish checking out or logging in. This page is protected and can only be viewed by your customers.'),
 			'section' => 'product_section',
-			'type' => 'text',
+			'type' => 'dropdown-pages',
 			'priority' => 10,
 		));
 
@@ -114,6 +114,17 @@ function plasso_customizer() {
 			'description' => __('The background image for your intro &amp; video.'),
 			'section' => 'intro_section',
 			'type' => 'image',
+			'priority' => 10,
+		));
+
+		// Button Text: For the type of product/service being offered.
+
+		Kirki::add_field('plasso_theme', array(
+			'settings' => 'plasso[intro_button]',
+			'label' => __('Button Text', 'plasso_textdomain'),
+			'description' => __('The label you would like to use for your product/service button (e.g. “See Plans”).'),
+			'section' => 'intro_section',
+			'type' => 'text',
 			'priority' => 10,
 		));
 
@@ -261,6 +272,85 @@ function plasso_customizer() {
 			'section' => 'cta_section',
 			'type' => 'text',
 			'priority' => 10,
+		));
+
+		// CTA Button Text: The CTA button text.
+
+		Kirki::add_field('plasso_theme', array(
+			'settings' => 'plasso[cta_button]',
+			'label' => __('Button Text', 'plasso_textdomain'),
+			'description' => __('The button text (e.g. “View Plans”).'),
+			'section' => 'cta_section',
+			'type' => 'text',
+			'priority' => 10,
+		));
+
+		/* The Pricing Section
+		-------------------------------------------------------------------------------------------- */
+
+		Kirki::add_section('pricing_section', array(
+			'title' => __('Pricing', 'plasso_textdomain'),
+			'description' => __('Content &amp; settings for the Pricing section.', 'plasso_textdomain'),
+			'priority' => 200,
+			'capability' => 'edit_theme_options',
+		));
+
+		// Pricing Toggle: Toggle the Pricing section on or off.
+
+		Kirki::add_field('plasso_theme', array(
+			'settings' => 'plasso[pricing_toggle]',
+			'label' => __('Display', 'plasso_textdomain'),
+			'description' => __('Toggle the Pricing section on or off.'),
+			'section' => 'pricing_section',
+			'type' => 'toggle',
+			'priority' => 10,
+		));
+
+		// Pricing Intro Headline: Just a textarea for the Pricing intro headline.
+
+		Kirki::add_field('plasso_theme', array(
+			'settings' => 'plasso[pricing_headline]',
+			'label' => __('Pricing Headline', 'plasso_textdomain'),
+			'description' => __('For your Pricing section headline (e.g. “Pricing”).'),
+			'section' => 'pricing_section',
+			'type' => 'text',
+			'priority' => 10,
+		));
+
+		// Pricing Repeater: Here’s the Pricing repeater.
+
+		Kirki::add_field('plasso_theme', array(
+			'settings' => 'plasso[pricing_plan]',
+			'label' => __('Pricing Plans', 'plasso_textdomain'),
+			'description' => __('Add, remove and/or organize Pricing Plans.'),
+			'row_label' => array(
+				'value' => 'Plan'
+			),
+			'section' => 'pricing_section',
+			'type' => 'repeater',
+			'priority' => 10,
+			'fields' => array (
+				'name' => array(
+					'label' => __('Name', 'plasso_textdomain'),
+					'type' => 'text',
+				),
+				'price' => array(
+					'label' => __('Price', 'plasso_textdomain'),
+					'type' => 'text',
+				),
+				'period' => array(
+					'label' => __('Pricing Period (e.g. “Month”)', 'plasso_textdomain'),
+					'type' => 'text',
+				),
+				'text' => array(
+					'label' => __('Text', 'plasso_textdomain'),
+					'type' => 'textarea',
+				),
+				'button' => array(
+					'label' => __('Button Text (e.g. “Subscribe”)', 'plasso_textdomain'),
+					'type' => 'text',
+				),
+			),
 		));
 
 		/* The FAQ Section

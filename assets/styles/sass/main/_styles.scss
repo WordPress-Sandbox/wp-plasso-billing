@@ -81,7 +81,7 @@ body {
    padding: 100px 20px;
 }
 
-.three-columns, .about, .faq {
+.how-it-works, .pricing, .about, .faq {
    .content {
       padding-left: 0;
       padding-right: 0;
@@ -111,6 +111,9 @@ a {
 	color: $blue;
 	font-weight: 600;
 	text-decoration: none;
+  -webkit-transform: translate3d(0, 0, 0);
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
 }
 
 a:hover {
@@ -198,9 +201,9 @@ header {
 }
 
 /*--------------------------------------------------------------
-# Columned Sections
+# How it Works
 --------------------------------------------------------------*/
-.three-columns {
+.how-it-works {
    text-align: center;
    .grid {
       margin-top: 30px;
@@ -217,6 +220,60 @@ header {
 }
 .section-title {
    margin-bottom: 50px;
+}
+
+/*--------------------------------------------------------------
+# Pricing
+--------------------------------------------------------------*/
+.pricing {
+   background-color: $grey7;
+   text-align: center;
+   .content {
+      padding-top: 50px;
+      padding-bottom: 50px;
+   }
+   .grid {
+      padding-bottom: 50px;
+   }
+   .section-title {
+      padding-top: 50px;
+   }
+}
+.pricing-card {
+   background-color: white;
+   border-radius: 2px;
+   padding: 30px 30px 50px 30px;
+   h5 {
+      margin-bottom: 30px;
+   }
+   ul {
+      list-style: none;
+      font-size: 12px;
+      margin-bottom: 40px;
+   }
+   transform: translate3d(0, 0, 0);
+   -webkit-transform: translate3d(0, 0, 0);
+   -webkit-transition: 0.3s;
+   transition: 0.3s;
+   &:hover {
+      -webkit-box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.1);
+      -moz-box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.1);
+      box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.1)
+   }
+}
+
+.price {
+   font-size: 48px;
+   color: $blue;
+   letter-spacing: -3px;
+   font-weight: 300;
+   margin-bottom: 10px;
+}
+
+.period {
+   font-size: 11px;
+   color: $grey4;
+   margin-bottom: 20px;
 }
 
 /*--------------------------------------------------------------

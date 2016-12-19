@@ -1,5 +1,5 @@
 <?php $plasso = get_theme_mod('plasso'); ?>
-<div class="three-columns" id="details">
+<div class="how-it-works" id="details">
   <div class="content">
     <h3 class="section-title">
       <?php echo $plasso['details_title']; ?>

@@ -29,6 +29,13 @@
       get_template_part('part-404');
     }
 
+  	$protected = $plasso['space_page'];
+
+  	// If we are on a protected page.
+    if(is_page($protected)) {
+      get_template_part('part-protected');
+  	}
+
 		?>
 
     <div class="wrapper">
@@ -52,6 +59,11 @@
       // CTA: Get the CTA part if it’s toggled.
       if($plasso['cta_toggle'] == true) {
         get_template_part('part-cta');
+      }
+
+      // Pricing: Get the Pricing part if it’s toggled.
+      if($plasso['pricing_toggle'] == true) {
+        get_template_part('part-pricing');
       }
 
       // FAQ: Get the FAQ part if it’s toggled.

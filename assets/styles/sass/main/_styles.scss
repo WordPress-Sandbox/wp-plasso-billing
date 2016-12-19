@@ -162,6 +162,7 @@ p {
 header {
    display: flex;
    height: 100vh;
+   position: relative;
 }
 .header-text {
    flex-basis: 40%;
@@ -196,8 +197,12 @@ header {
       margin-bottom: 20px;
    }
    p {
-      margin-bottom: 10%;
+      margin-bottom: 40px;
    }
+
+   position: absolute;
+   top: 50%;
+   transform: translateY(-50%);
 }
 
 /*--------------------------------------------------------------

@@ -18,7 +18,7 @@
             <li><?php echo $plan['text']; ?></li>
           </ul>
 
-          <a class="btn plo-button" href="https://plasso.co/s/<?php echo $plasso['space_id']; ?>"><?php echo $plan['button']; ?></a>
+          <a class="btn plo-button" href="https://plasso.co/s/<?php echo $plasso['space_id']; ?>?preselect=<?php echo $plan['id']; ?>"><?php echo $plan['button']; ?></a>
         </div>
 			</div>
 			<?php } ?>

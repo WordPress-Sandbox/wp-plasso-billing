@@ -3005,6 +3005,3003 @@
 		"oAP": "\/style-min.css",
 		"oF": 0,
 		"oS": 0
+		},
+	"\/wp-plasso-billing\/assets\/scripts\/site-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/scripts\/site-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/scripts\/site.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/scripts\/site-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/styles\/sass\/main\/_message.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/styles\/sass\/_message-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/styles\/sass\/main\/_responsive.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/styles\/sass\/_responsive-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/styles\/sass\/main\/_styles.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/styles\/sass\/_styles-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/styles\/sass\/site.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/styles\/site-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/styles\/sass\/vendor\/_animate.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/styles\/sass\/_animate-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/styles\/sass\/vendor\/_mobilemenu.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/styles\/sass\/_mobilemenu-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/styles\/sass\/vendor\/_simplegrid.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/styles\/sass\/_simplegrid-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/styles\/site-min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/styles\/site-min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/customizer.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/customizer.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/plasso-billing.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/plasso-billing.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/customizer-dynamic-css-colors.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/customizer-dynamic-css-colors.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/customizer-dynamic-css-width.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/customizer-dynamic-css-width.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/customizer-dynamic-css.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/customizer-dynamic-css.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/customizer.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/customizer-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/customizer.css.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/customizer.css.map",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/hint.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/hint-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/kirki-styles.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/kirki-styles-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/select2.min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/select2.min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/transparency-grid.png": {
+		"ft": 32768,
+		"iS": 2646,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/css\/transparency-grid.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/1c.png": {
+		"ft": 32768,
+		"iS": 760,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/1c.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/2cl.png": {
+		"ft": 32768,
+		"iS": 769,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/2cl.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/2cr.png": {
+		"ft": 32768,
+		"iS": 771,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/2cr.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/3cl.png": {
+		"ft": 32768,
+		"iS": 791,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/3cl.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/3cm.png": {
+		"ft": 32768,
+		"iS": 786,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/3cm.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/3cr.png": {
+		"ft": 32768,
+		"iS": 791,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/3cr.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/jquery.fs.stepper-arrows.png": {
+		"ft": 32768,
+		"iS": 306,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/jquery.fs.stepper-arrows.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/kirki-bottom.png": {
+		"ft": 32768,
+		"iS": 1549,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/kirki-bottom.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/kirki-bottom.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/kirki-bottom.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/kirki-logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/kirki-logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/kirki-toolkit.png": {
+		"ft": 32768,
+		"iS": 9204,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/images\/kirki-toolkit.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/branding.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/branding-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/checkbox.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/checkbox-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/code.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/code-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/color-palette.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/color-palette-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/color.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/color-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/custom.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/custom-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/dashicons.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/dashicons-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/date.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/date-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/dimension.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/dimension-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/dropdown-pages.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/dropdown-pages-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/editor.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/editor-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/generic.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/generic-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/multicheck.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/multicheck-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/multicolor.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/multicolor-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/number.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/number-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/palette.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/palette-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/preset.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/preset-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/radio-buttonset.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/radio-buttonset-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/radio-image.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/radio-image-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/radio.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/radio-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/repeater.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/repeater-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/select.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/select-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/slider.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/slider-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/sortable.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/sortable-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/spacing.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/spacing-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/switch.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/switch-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/toggle.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/toggle-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/typography.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/controls\/typography-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/functions\/notifications.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/functions\/notifications-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/functions\/set-setting-value.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/functions\/set-setting-value-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/functions\/validate-css-value.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/functions\/validate-css-value-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/l10n.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/l10n-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/postmessage.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/postmessage-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/reset.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/reset-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/tooltip.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/tooltip-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/comment\/comment.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/comment\/comment-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/comment\/continuecomment.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/comment\/continuecomment-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/dialog\/dialog.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/dialog\/dialog-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/dialog\/dialog.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/dialog\/dialog-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/display\/autorefresh.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/display\/autorefresh-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/display\/fullscreen.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/display\/fullscreen-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/display\/fullscreen.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/display\/fullscreen-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/display\/panel.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/display\/panel-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/display\/placeholder.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/display\/placeholder-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/display\/rulers.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/display\/rulers-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/edit\/closebrackets.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/edit\/closebrackets-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/edit\/closetag.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/edit\/closetag-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/edit\/continuelist.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/edit\/continuelist-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/edit\/matchbrackets.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/edit\/matchbrackets-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/edit\/matchtags.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/edit\/matchtags-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/edit\/trailingspace.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/edit\/trailingspace-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/fold\/brace-fold.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/fold\/brace-fold-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/fold\/comment-fold.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/fold\/comment-fold-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/fold\/foldcode.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/fold\/foldcode-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/fold\/foldgutter.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/fold\/foldgutter-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/fold\/foldgutter.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/fold\/foldgutter-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/fold\/indent-fold.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/fold\/indent-fold-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/fold\/markdown-fold.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/fold\/markdown-fold-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/fold\/xml-fold.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/fold\/xml-fold-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/hint\/anyword-hint.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/hint\/anyword-hint-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/hint\/css-hint.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/hint\/css-hint-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/hint\/html-hint.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/hint\/html-hint-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/hint\/javascript-hint.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/hint\/javascript-hint-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/hint\/show-hint.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/hint\/show-hint-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/hint\/show-hint.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/hint\/show-hint-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/hint\/sql-hint.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/hint\/sql-hint-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/hint\/xml-hint.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/hint\/xml-hint-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/lint\/coffeescript-lint.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/lint\/coffeescript-lint-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/lint\/css-lint.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/lint\/css-lint-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/lint\/html-lint.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/lint\/html-lint-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/lint\/javascript-lint.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/lint\/javascript-lint-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/lint\/json-lint.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/lint\/json-lint-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/lint\/lint.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/lint\/lint-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/lint\/lint.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/lint\/lint-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/lint\/yaml-lint.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/lint\/yaml-lint-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/merge\/merge.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/merge\/merge-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/merge\/merge.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/merge\/merge-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/mode\/loadmode.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/mode\/loadmode-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/mode\/multiplex.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/mode\/multiplex-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/mode\/multiplex_test.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/mode\/multiplex_test-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/mode\/overlay.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/mode\/overlay-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/mode\/simple.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/mode\/simple-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/runmode\/colorize.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/runmode\/colorize-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/runmode\/runmode-standalone.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/runmode\/runmode-standalone-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/runmode\/runmode.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/runmode\/runmode-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/runmode\/runmode.node.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/runmode\/runmode.node-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/scroll\/annotatescrollbar.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/scroll\/annotatescrollbar-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/scroll\/scrollpastend.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/scroll\/scrollpastend-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/scroll\/simplescrollbars.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/scroll\/simplescrollbars-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/scroll\/simplescrollbars.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/scroll\/simplescrollbars-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/search\/match-highlighter.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/search\/match-highlighter-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/search\/matchesonscrollbar.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/search\/matchesonscrollbar-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/search\/matchesonscrollbar.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/search\/matchesonscrollbar-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/search\/search.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/search\/search-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/search\/searchcursor.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/search\/searchcursor-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/selection\/active-line.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/selection\/active-line-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/selection\/mark-selection.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/selection\/mark-selection-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/selection\/selection-pointer.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/selection\/selection-pointer-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/tern\/tern.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/tern\/tern-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/tern\/tern.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/tern\/tern-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/tern\/worker.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/tern\/worker-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/wrap\/hardwrap.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/addon\/wrap\/hardwrap-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/AUTHORS": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/AUTHORS",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/bin\/authors.sh": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/bin\/authors.sh",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/bin\/compress": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/bin\/compress",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/bin\/lint": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/bin\/lint",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/bin\/release": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/bin\/release",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/bin\/source-highlight": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/bin\/source-highlight",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/keymap\/emacs.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/keymap\/emacs-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/keymap\/sublime.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/keymap\/sublime-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/keymap\/vim.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/keymap\/vim-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/lib\/codemirror.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/lib\/codemirror-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/lib\/codemirror.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/lib\/codemirror-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/LICENSE": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/LICENSE",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/coffeescript\/coffeescript.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/coffeescript\/coffeescript-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/coffeescript\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/coffeescript\/index.html",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/css\/css.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/css\/css-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/css\/gss.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/css\/gss.html",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/css\/gss_test.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/css\/gss_test-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/css\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/css\/index.html",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/css\/less.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/css\/less.html",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/css\/less_test.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/css\/less_test-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/css\/scss.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/css\/scss.html",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/css\/scss_test.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/css\/scss_test-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/css\/test.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/css\/test-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/haml\/haml.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/haml\/haml-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/haml\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/haml\/index.html",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/haml\/test.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/haml\/test-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/htmlembedded\/htmlembedded.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/htmlembedded\/htmlembedded-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/htmlembedded\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/htmlembedded\/index.html",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/htmlmixed\/htmlmixed.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/htmlmixed\/htmlmixed-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/htmlmixed\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/htmlmixed\/index.html",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/index.html",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/javascript\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/javascript\/index.html",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/javascript\/javascript.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/javascript\/javascript-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/javascript\/json-ld.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/javascript\/json-ld.html",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/javascript\/test.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/javascript\/test-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/javascript\/typescript.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/javascript\/typescript.html",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/markdown\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/markdown\/index.html",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/markdown\/markdown.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/markdown\/markdown-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/markdown\/test.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/markdown\/test-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/meta.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/meta-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/php\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/php\/index.html",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/php\/php.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/php\/php-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/php\/test.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/php\/test-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/sass\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/sass\/index.html",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/sass\/sass.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/sass\/sass-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/smarty\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/smarty\/index.html",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/smarty\/smarty.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/smarty\/smarty-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/sql\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/sql\/index.html",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/sql\/sql.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/sql\/sql-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/stylus\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/stylus\/index.html",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/stylus\/stylus.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/stylus\/stylus-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/textile\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/textile\/index.html",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/textile\/test.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/textile\/test-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/textile\/textile.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/textile\/textile-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/twig\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/twig\/index.html",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/twig\/twig.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/twig\/twig-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/xml\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/xml\/index.html",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/xml\/test.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/xml\/test-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/xml\/xml.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/xml\/xml-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/yaml\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/yaml\/index.html",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/yaml\/yaml.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/mode\/yaml\/yaml-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/theme\/kirki-dark.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/theme\/kirki-dark-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/theme\/kirki-light.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/codemirror\/theme\/kirki-light-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/selectize.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/selectize-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/serialize.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/serialize-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/tinymce.plugin.code.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/tinymce.plugin.code-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/wp-color-picker-alpha.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/js\/vendor\/wp-color-picker-alpha-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/controls\/checkbox.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/checkbox-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/controls\/code.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/code-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/controls\/color-palette.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/color-palette-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/controls\/color.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/color-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/controls\/dashicons.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/dashicons-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/controls\/date.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/date-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/controls\/dimension.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/dimension-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/controls\/editor.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/editor-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/controls\/generic.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/generic-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/controls\/multicheck.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/multicheck-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/controls\/multicolor.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/multicolor-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/controls\/number.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/number-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/controls\/palette.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/palette-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/controls\/radio-buttonset.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/radio-buttonset-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/controls\/radio-image.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/radio-image-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/controls\/radio.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/radio-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/controls\/repeater.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/repeater-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/controls\/select.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/select-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/controls\/slider.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/slider-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/controls\/sortable.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/sortable-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/controls\/spacing.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/spacing-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/controls\/switch.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/switch-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/controls\/toggle.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/toggle-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/controls\/typography.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/typography-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/customizer.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/customizer-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/global.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/global-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/panels\/expanded.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/expanded-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/sections\/expanded.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/expanded-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/sections\/hover.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/hover-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/scss\/tooltips.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/assets\/tooltips-min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/autoloader.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/autoloader.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-active-callback.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-active-callback.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-config.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-config.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-control.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-control.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-customize-control.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-customize-control.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-enqueue.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-enqueue.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-explode-background-field.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-explode-background-field.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-field.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-field.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-fonts-google.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-fonts-google.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-fonts.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-fonts.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-helper.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-helper.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-init.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-init.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-l10n.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-l10n.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-panel.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-panel.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-sanitize-values.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-sanitize-values.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-scripts-registry.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-scripts-registry.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-section.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-section.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-selective-refresh.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-selective-refresh.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-settings.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-settings.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-toolkit.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-toolkit.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-values.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki-values.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/class-kirki.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-checkbox-control.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-checkbox-control.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-code-control.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-code-control.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-color-control.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-color-control.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-color-palette-control.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-color-palette-control.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-custom-control.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-custom-control.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-dashicons-control.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-dashicons-control.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-date-control.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-date-control.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-dimension-control.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-dimension-control.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-dropdown-pages-control.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-dropdown-pages-control.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-editor-control.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-editor-control.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-generic-control.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-generic-control.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-multicheck-control.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-multicheck-control.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-multicolor-control.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-multicolor-control.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-number-control.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-number-control.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-palette-control.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-palette-control.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-preset-control.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-preset-control.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-radio-buttonset-control.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-radio-buttonset-control.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-radio-control.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-radio-control.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-radio-image-control.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-radio-image-control.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-repeater-control.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-repeater-control.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-select-control.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-select-control.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-slider-control.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-slider-control.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-sortable-control.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-sortable-control.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-spacing-control.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-spacing-control.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-switch-control.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-switch-control.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-toggle-control.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-toggle-control.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-typography-control.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/controls\/class-kirki-controls-typography-control.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/deprecated.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/deprecated.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/dynamic-css.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/dynamic-css.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-checkbox.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-checkbox.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-code.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-code.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-color-alpha.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-color-alpha.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-color-palette.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-color-palette.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-color.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-color.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-custom.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-custom.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-dashicons.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-dashicons.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-date.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-date.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-dimension.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-dimension.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-dropdown-pages.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-dropdown-pages.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-editor.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-editor.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-generic.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-generic.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-group-title.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-group-title.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-image.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-image.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-kirki-generic.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-kirki-generic.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-link.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-link.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-multicheck.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-multicheck.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-multicolor.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-multicolor.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-number.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-number.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-palette.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-palette.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-preset.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-preset.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-radio-buttonset.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-radio-buttonset.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-radio-image.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-radio-image.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-radio.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-radio.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-repeater.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-repeater.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-select.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-select.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-select2-multiple.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-select2-multiple.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-select2.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-select2.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-slider.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-slider.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-sortable.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-sortable.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-spacing.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-spacing.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-switch.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-switch.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-text.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-text.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-textarea.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-textarea.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-toggle.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-toggle.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-typography.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-typography.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-upload.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-upload.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-url.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-field-url.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-filed-link.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-filed-link.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-filed-url.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/field\/class-kirki-filed-url.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/lib\/class-aricolor.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/lib\/class-aricolor.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/lib\/class-kirki-color.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/lib\/class-kirki-color.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/output\/class-kirki-output.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/output\/class-kirki-output.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/output\/field\/class-kirki-output-field-multicolor.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/output\/field\/class-kirki-output-field-multicolor.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/output\/field\/class-kirki-output-field-spacing.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/output\/field\/class-kirki-output-field-spacing.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/output\/field\/class-kirki-output-field-typography.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/output\/field\/class-kirki-output-field-typography.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/output\/property\/class-kirki-output-property-background-image.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/output\/property\/class-kirki-output-property-background-image.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/output\/property\/class-kirki-output-property-background-position.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/output\/property\/class-kirki-output-property-background-position.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/output\/property\/class-kirki-output-property-font-family.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/output\/property\/class-kirki-output-property-font-family.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/output\/property\/class-kirki-output-property.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/output\/property\/class-kirki-output-property.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/panels\/class-kirki-panels-default-panel.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/panels\/class-kirki-panels-default-panel.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/panels\/class-kirki-panels-expanded-panel.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/panels\/class-kirki-panels-expanded-panel.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/scripts\/class-kirki-scripts-icons.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/scripts\/class-kirki-scripts-icons.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/scripts\/class-kirki-scripts-loading.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/scripts\/class-kirki-scripts-loading.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/scripts\/class-kirki-scripts-tooltips.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/scripts\/class-kirki-scripts-tooltips.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/sections\/class-kirki-sections-default-section.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/sections\/class-kirki-sections-default-section.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/sections\/class-kirki-sections-expanded-section.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/sections\/class-kirki-sections-expanded-section.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/sections\/class-kirki-sections-hover-section.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/sections\/class-kirki-sections-hover-section.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/settings\/class-kirki-settings-default-setting.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/settings\/class-kirki-settings-default-setting.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/settings\/class-kirki-settings-repeater-setting.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/settings\/class-kirki-settings-repeater-setting.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/styles\/class-kirki-styles-customizer.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/styles\/class-kirki-styles-customizer.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/styles\/class-kirki-styles-frontend.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/styles\/class-kirki-styles-frontend.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/styles\/class-kirki-styles-output-css.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/styles\/class-kirki-styles-output-css.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/webfonts.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/includes\/webfonts.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/kirki.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/kirki.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/LICENSE": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/LICENSE",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/package.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/package-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/readme.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/assets\/works\/vendor\/kirki\/readme.txt",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/functions.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/functions.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/index.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/part-404.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/part-404.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/part-about.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/part-about.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/part-contact.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/part-contact.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/part-cta.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/part-cta.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/part-details.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/part-details.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/part-faq.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/part-faq.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/part-footer.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/part-footer.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/part-intro.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/part-intro.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/part-pricing.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/part-pricing.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/part-protected.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/part-protected.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/part-welcome.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/part-welcome.php",
+		"oF": 0
+		},
+	"\/wp-plasso-billing\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/wp-plasso-billing\/screenshot.png": {
+		"ft": 32768,
+		"iS": 38914,
+		"oA": 0,
+		"oAP": "\/wp-plasso-billing\/screenshot.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/wp-plasso-billing\/style.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/wp-plasso-billing\/style-min.css",
+		"oF": 0,
+		"oS": 0
 		}
 	},
 "hooks": [

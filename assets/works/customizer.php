@@ -334,6 +334,10 @@ function plasso_customizer() {
 					'label' => __('Name', 'plasso_textdomain'),
 					'type' => 'text',
 				),
+				'id' => array(
+					'label' => __('Plasso Plan ID (e.g. “1234”)', 'plasso_textdomain'),
+					'type' => 'text',
+				),
 				'price' => array(
 					'label' => __('Price', 'plasso_textdomain'),
 					'type' => 'text',

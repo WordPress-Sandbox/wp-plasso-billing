@@ -3050,19 +3050,6 @@
 		"oS": 3,
 		"uL": 1
 		},
-	"\/wp-plasso-billing\/assets\/styles\/sass\/main\/_styles.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/wp-plasso-billing\/assets\/styles\/sass\/_styles-min.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
 	"\/wp-plasso-billing\/assets\/styles\/sass\/site.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -3114,22 +3101,6 @@
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
-		},
-	"\/wp-plasso-billing\/assets\/styles\/site-min.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/wp-plasso-billing\/assets\/styles\/site-min-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/wp-plasso-billing\/assets\/works\/customizer.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-plasso-billing\/assets\/works\/customizer.php",
-		"oF": 0
 		},
 	"\/wp-plasso-billing\/assets\/works\/plasso-billing.php": {
 		"ft": 8192,
@@ -5991,7 +5962,7 @@
 		"oA": 0,
 		"oAP": "\/wp-plasso-billing\/screenshot.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/wp-plasso-billing\/style.css": {
 		"aP": 0,

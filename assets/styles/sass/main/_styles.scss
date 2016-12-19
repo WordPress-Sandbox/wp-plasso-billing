@@ -200,6 +200,8 @@ header {
       margin-bottom: 40px;
    }
 
+   width: calc(40% - 140px);
+
    position: absolute;
    top: 50%;
    transform: translateY(-50%);
